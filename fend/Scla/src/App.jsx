@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 
 
-const API = "https://smart-calculator-api-xxxx.onrender.com";
+const API = "https://smart-calculator-66h4.onrender.com";
 
 
 function App() {
